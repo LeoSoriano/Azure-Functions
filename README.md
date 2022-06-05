@@ -49,11 +49,11 @@ Este servicio no sirve para hacer **BACKED**.
 
 10.- Una ves que le demos crear, debemos esperar un poco a que se implemente.
 
-![Implementar](Imagenes\Implementacion.PNG)
+![Implementar](Imagenes/Implementacion.PNG)
 
 11.- Una ves que este ya al 100% le daremos ir al recurso.
 
-![Ir al recurso](Imagenes\go.PNG)
+![Ir al recurso](Imagenes/go.PNG)
 
 
 12.- Una ves estan en el recurso, nos iremos a la seccion que dice **Functions** donde aca crearemos una funcion.
@@ -64,7 +64,7 @@ Este servicio no sirve para hacer **BACKED**.
 
 14.- Esperamos que se cree el Trigger y una ves creado nos iremos a donde dice **Codigo y Prueba**.
 
-![Trigger Complete](Imagenes\Trigger.PNG)
+![Trigger Complete](Imagenes/functionsTrigger.PNG)
 
 15.- En codigo y prueba, nos mostrara la funcion en forma de codigo javascript.
 
