@@ -64,7 +64,7 @@ Este servicio no sirve para hacer **BACKED**.
 
 14.- Esperamos que se cree el Trigger y una ves creado nos iremos a donde dice **Codigo y Prueba**.
 
-![Trigger Complete](Imagenes/functionsTrigger.PNG)
+![Trigger Complete](Imagenes/Trigger.PNG)
 
 15.- En codigo y prueba, nos mostrara la funcion en forma de codigo javascript.
 
