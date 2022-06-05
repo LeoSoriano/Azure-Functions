@@ -60,7 +60,8 @@ Este servicio no sirve para hacer **BACKED**.
 
 13.- Aca vamos a seleccionar el **HTTP TRIGGER**, es decir que functions recibe una peticion http y le damos crear.
 
-![Create Function](Imagenes\functionsTrigger.PNG)
+![Create Function](Imagenes/functionsTrigger.PNG)
+
 
 14.- Esperamos que se cree el Trigger y una ves creado nos iremos a donde dice **Codigo y Prueba**.
 
