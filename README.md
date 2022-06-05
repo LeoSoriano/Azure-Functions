@@ -69,26 +69,26 @@ Este servicio no sirve para hacer **BACKED**.
 
 15.- En codigo y prueba, nos mostrara la funcion en forma de codigo javascript.
 
-![Code](Imagenes\code.PNG)
+![Code](Imagenes/code.PNG)
 
 16.- Ese codigo lo podemos editar para crear algo diferente.
 
-![edit](Imagenes\edit.PNG)
+![edit](Imagenes/edit.PNG)
 
 17.- Una ves editado el codigo le podemos dar **Test/run** para ver como se visualiza lo que escribimos.
 
-![run](Imagenes\run.PNG)
+![run](Imagenes/run.PNG)
 
 18.- Acontinuacion Obtendremos el URL de la funcion para poder visualizar la funcion mdiante otro lado.
 
-![URL](Imagenes\url.PNG)
+![URL](Imagenes/url.PNG)
 
 19.- Otra forma de ver la funcion mediante el URL de la funcion, es descargando la extension de Chrome llamada **Talend API Tester**.
 
-![Talend API Tester](Imagenes\Talent.PNG)
+![Talend API Tester](Imagenes/Talent.PNG)
 
 20.- Aca podemos ver si funciona la funcion, al momento de ejecutarla nos dice **NO AUTORIZADO**, eso pasa por que necesitamos crear una Clave de Funcion.
 
-![No Autorizado](Imagenes\Autorized.PNG)
+![No Autorizado](Imagenes/Autorized.PNG)
 
 --------------------------------------
