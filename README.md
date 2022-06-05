@@ -20,7 +20,7 @@ Este servicio no sirve para hacer **BACKED**.
 
 - **Cuando usar:** Puede usarse para hacer servicios de mensajeria, loT, APIs sencinllas,etc.
 
-----------------------------------------
+----------------------------------------------------------------------------------------------
 
 #### Pasos para crear un Azure Functions
 
