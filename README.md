@@ -2,7 +2,7 @@
 
 El programa que usaremos para crear una funcion es **Azure Functions**
 
-![Azure Functions](Imagenes\functions1.png)
+![Azure Functions](Imagenes/functions1.png)
 
 **Azure Functions** es un servicio que **NO usa servidor**, en otras palabras es **Informatica SIN SERVIDOR**.
 
@@ -28,13 +28,13 @@ Este servicio no sirve para hacer **BACKED**.
 
 2.- Buscamos Azure Functions.
 
-![Functions](Imagenes\Function.PNG)
+![Functions](Imagenes/Function.PNG)
 
 
 
 3.- Cuando cargue, le daremos en crear.
 
-![Create](Imagenes\Create.PNG)
+![Create](Imagenes/Create.PNG)
 
 
 4.- Creamos un grupo de recursos, pero si ya tenemos un grupo de recursos echos, lo seleccionaremos.
@@ -45,7 +45,7 @@ Este servicio no sirve para hacer **BACKED**.
 
 9.- Creamos el servicio.
 
-![Creando el servicio](Imagenes\Check.PNG)
+![Creando el servicio](Imagenes/Check.PNG)
 
 10.- Una ves que le demos crear, debemos esperar un poco a que se implemente.
 
