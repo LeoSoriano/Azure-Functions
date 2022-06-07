@@ -91,4 +91,12 @@ Este servicio no sirve para hacer **BACKED**.
 
 ![No Autorizado](Imagenes/Autorized.PNG)
 
+21.- Para generar la clave de la funcion, debemos irnos al apartado de App Key y darle **show value** para copiar la App Key.
+
+![App Key](Imagenes/AppKey.PNG)
+
+22.- Ahora volvemos al **Talend API tester** y le damos en **Add header** para que ahi escribamos del lado izquiero **x-functions-key** y a la derecha copiamos el **URL** de la App Key.
+
+![Ready](Imagenes/ready.PNG)
+
 --------------------------------------
